@@ -15,7 +15,7 @@ import static org.junit.Assert.assertNotNull;
 public class OrderTest {
     Order order;
     private static final String BASE_URL = "https://qa-scooter.praktikum-services.ru/";
-    private int track;
+    private Integer track;
 
 
     public OrderTest(Order order) {
